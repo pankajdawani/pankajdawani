@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm Pankaj Dawani
 
-<!--
-**pankajdawani/pankajdawani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Data Scientist | Data Engineer | ML Engineer  
+Based in Germany 🇩🇪
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Python & PySpark specialist
+- Building data pipelines & ML systems
+- Interested in recommendation systems & optimization
+- Preparing for Senior ML / Data roles in EU
+
+---
+
+## 🧰 Tech Stack
+Python • PySpark • SQL • Airflow • GCP • AWS  
+Machine Learning • Data Pipelines • ETL • Analytics
+
+---
+
+## 📌 Current Focus
+- End-to-end ML pipelines
+- ML system design
+- PySpark large-scale data processing
+- Recommender systems
+
+---
+
+## 📫 Contact
+📧 pankajdawani88@gmail.com
