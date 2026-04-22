@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Pankaj Dawani
+# Pankaj Dawani
 
 Senior Data Scientist | Data Engineer | ML Engineer  
 Based in Germany 🇩🇪 | Blue Card Holder and Eligible for G permit (Swiss)
