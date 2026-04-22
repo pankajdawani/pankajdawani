@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Pankaj Dawani
 
 Senior Data Scientist | Data Engineer | ML Engineer  
-Based in Germany 🇩🇪
+Based in Germany 🇩🇪 | Blue Card Holder and Eligible for G permit (Swiss)
 
 ---
 
@@ -9,7 +9,7 @@ Based in Germany 🇩🇪
 - Python & PySpark specialist
 - Building data pipelines & ML systems
 - Interested in recommendation systems & optimization
-- Preparing for Senior ML / Data roles in EU
+- Looking for Senior ML / Data roles in EU
 
 ---
 
