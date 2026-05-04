@@ -1,11 +1,11 @@
 # Pankaj Dawani
 
 Senior Data Scientist | Data Engineer | ML Engineer  
-Based in Germany 🇩🇪 | Blue Card Holder and Eligible for G permit (Swiss)
+Based in Germany | Blue Card Holder and Eligible for G permit (Swiss)
 
 ---
 
-## 🚀 About Me
+## About Me
 - Python & PySpark specialist
 - Building data pipelines & ML systems
 - Interested in recommendation systems & optimization
@@ -13,13 +13,13 @@ Based in Germany 🇩🇪 | Blue Card Holder and Eligible for G permit (Swiss)
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 Python • PySpark • SQL • Airflow • GCP • AWS  
 Machine Learning • Data Pipelines • ETL • Analytics
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 - End-to-end ML pipelines
 - ML system design
 - PySpark large-scale data processing
@@ -27,5 +27,5 @@ Machine Learning • Data Pipelines • ETL • Analytics
 
 ---
 
-## 📫 Contact
-📧 pankajdawani88@gmail.com
+## Contact
+pankajdawani88@gmail.com
