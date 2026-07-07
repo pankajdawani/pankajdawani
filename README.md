@@ -9,7 +9,7 @@ Based in Germany (Basel/Zürich corridor) | EU Blue Card | Swiss G Permit eligib
 
 **Churn Prediction System** — End-to-end ML pipeline to production
 - Live Dashboard: https://pankajdawani-churn-prediction-telco.streamlit.app
-- ⚡ Live API: https://churn-prediction-api-162601831220.europe-west1.run.app
+- Live API: https://churn-prediction-api-162601831220.europe-west1.run.app
 - Stack: XGBoost • SHAP • MLflow • FastAPI • Docker • GCP Cloud Run
 
 ---
