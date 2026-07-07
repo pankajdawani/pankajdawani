@@ -1,29 +1,27 @@
 # Pankaj Dawani
 
-Senior Data Scientist | Data Engineer | ML Engineer  
-Based in Germany | Blue Card Holder and Eligible for G permit (Swiss)
+Senior Data Scientist | ML Engineer | MLOps
+Based in Germany (Basel/Zürich corridor) | EU Blue Card | Swiss G Permit eligible
 
 ---
 
-## About Me
-- Python & PySpark specialist
-- Building data pipelines & ML systems
-- Interested in recommendation systems & optimization
-- Looking for Senior ML / Data roles in EU
+## Featured Project
+🔮 [Telco Churn Prediction System](https://github.com/pankajdawani/telco-churn-prediction)
+- Live Dashboard: https://pankajdawani-churn-prediction-telco.streamlit.app
+- Live API: https://churn-prediction-api-162601831220.europe-west1.run.app
+- XGBoost | SHAP | MLflow | FastAPI | Docker | GCP Cloud Run
 
 ---
 
 ## Tech Stack
-Python • PySpark • SQL • Airflow • GCP • AWS  
-Machine Learning • Data Pipelines • ETL • Analytics
+Python • PySpark • XGBoost • Scikit-learn • SHAP
+MLflow • FastAPI • Docker • GCP Cloud Run • Streamlit
+SQL • Pandas • NumPy • Git
 
 ---
 
-## Current Focus
-- End-to-end ML pipelines
-- ML system design
-- PySpark large-scale data processing
-- Recommender systems
+## Experience
+10+ years across Pharma (Novartis) • Finance (Morgan Stanley) • Consulting (PwC, EY, Gartner)
 
 ---
 
